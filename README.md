@@ -1,6 +1,6 @@
 # About React
 
-This repository is about some courses, tutoriales and examples of ReactJS
+This repository is about some courses, tutorials and examples of ReactJS
 
 ## Authors
 
